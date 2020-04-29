@@ -16,6 +16,4 @@
 1. Clone the repository ```git clone https://github.com/Edgar-K/Online-Store.git```
 2. ```cd ``` into the project folder
 3. ```npm install```
-4. ```npm install --save bootstrap```
-5. ```npm install --save react-router-dom```
-6. ```npm start```
+4. ```npm start```
