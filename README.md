@@ -11,7 +11,7 @@
 * [styled-components](https://styled-components.com/)
 
 ------
-###How To Use
+### How To Use:
 
 1. Clone the repository ```git clone https://github.com/Edgar-K/Online-Store.git```
 2. ```cd ``` into the project folder
